@@ -1,1 +1,5 @@
-Voici le dossier main de mes projets
+#Présentation du projet
+Voici le dossier du projet
+
+#Collaborateur
+-Anatole
