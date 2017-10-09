@@ -6,7 +6,7 @@ FILES = c_file/char_compare.c \
 	c_file/main.c \
 	c_file/wordtab.c
 
-NAMES = moulinette
+NAMES = lib
 
 make:
 	gcc -o $(NAMES) $(FILES)
